@@ -1,0 +1,29 @@
+12-14: internet elements, such-as webpages, servers, 
+    mark-up language, browser, hyperlink
+
+16-17: usual internet activities, such-as searching (search tools), 
+    email, IRC (internet Relay Chatting), social networking (IG, FB)
+
+18: online storage, computing, such-as cloud computing, 
+    FTP (File Transfer Protocal), VPN (Virtual Private Network)
+
+20-21: e-commerse, b2b, b2c, c2c
+
+22: ARPANET, to prevent 
+    computer systems from being vulnerable to a nuclear attack
+
+23: circuit switching VS packet switching
+
+29: advance knowledge of FTP, such-as
+    FTP site: server side
+    anonymous FTP site: no need to login, commonly for getting software updates and patches
+
+30: FTP server admins responsibilities, such as, 
+    manage accessibilities,
+    config permissions,
+    reset forgotten or compromised passwords
+
+31-32: how to access FTP,
+    web browser, CLI, GUI software
+
+33: knowledge on Telnet, allows computer controlling other computers
